@@ -2,7 +2,4 @@ workspace.members = [
     "window_single_button", 
 ]
 
-[package]
-name = "makepad_book_examples"
-version = "0.1.0"
-edition = "2021"
+workspace.resolver = "2"

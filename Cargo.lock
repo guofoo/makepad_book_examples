@@ -222,10 +222,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "makepad_book_examples"
-version = "0.1.0"
-
-[[package]]
 name = "rustybuzz"
 version = "0.8.0"
 source = "git+https://github.com/RazrFalcon/rustybuzz?rev=a0b8aa3#a0b8aa3ed002550cfea1137655d9ab7569964ae5"
